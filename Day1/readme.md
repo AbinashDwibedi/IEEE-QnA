@@ -2,7 +2,7 @@
 
 * em - When we give a fix font size like px to any parent element like div,h1 etc then if we give their child element and also their child element value in "em" then we can change all the elements value by just changing the parent element font size we can change the whole inside element size with respect to the parent element font size .
 
-* rem - On the other hand rem corresponds to the size of the html document font size. That means if we give any element value in rem than by changing the value of html document font size we can increase or decrease the element size.
+* rem - On the other hand rem corresponds to the size of the html document font size. That means if we give any element value in rem than by changing the value of html document font size we can increase or decrease the element value.
 
 # Explain the concept of closures in javascript . Provide an example where a closure might bbe useful (with code) ?
 * A inner function that has the access to the outer function 
