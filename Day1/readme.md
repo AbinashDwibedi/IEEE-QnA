@@ -31,8 +31,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Responsive design</title>
+    </head>
+    <body>
+        <div class="container">
+    
+        </div>
+    </body>
+    </html>
+```
+```css 
+     <style>
         *{
             margin: 0;
             padding: 0;
@@ -57,15 +67,6 @@
             }
         }
     </style>
-    <title>Responsive design</title>
-    </head>
-    <body>
-        <div class="container">
-    
-        </div>
-    </body>
-    </html>
 ```
-
 # What is the purpose of the srcset attribute in the <img> tag?
 * srcset is used to set different images with respect to a condition like width , height etc
