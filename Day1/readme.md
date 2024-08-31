@@ -26,7 +26,7 @@
 # How would you create a responsive design without using a css framework like bootstrap?
 * By using media queries inbuilt in CSS. 
 -code 
-    ```html
+```html
         <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,7 +42,6 @@
     </html>
 ```
 ```css 
-     <style>
         *{
             margin: 0;
             padding: 0;
@@ -66,7 +65,6 @@
                 width: 200px;
             }
         }
-    </style>
 ```
 # What is the purpose of the srcset attribute in the <img> tag?
 * srcset is used to set different images with respect to a condition like width , height etc
