@@ -4,7 +4,7 @@
 
 * rem - On the other hand rem corresponds to the size of the html document font size. That means if we give any element value in rem than by changing the value of html document font size we can increase or decrease the element value.
 
-# Explain the concept of closures in javascript . Provide an example where a closure might bbe useful (with code) ?
+# Explain the concept of closures in javascript . Provide an example where a closure might be useful (with code) ?
 * A inner function that has the access to the outer function 
 - code 
    ```js 
@@ -25,7 +25,7 @@
 
 # How would you create a responsive design without using a css framework like bootstrap?
 * By using media queries inbuilt in CSS. 
--code 
+- code 
 ```html
         <!DOCTYPE html>
 <html lang="en">
